@@ -1,4 +1,4 @@
-<div style="text-align:center"><img src ="images/chris.png" width="200" height="178"/></div>
+<div style="text-align:center"><img src ="images/chris.png" width="356" height="300"/></div>
 
 ## About Me
 
