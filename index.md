@@ -2,7 +2,8 @@
 
 | :---: | :---|
 <img src="images/chris.png" width="400" height="354" align="middle"> | Email: christopher.morales@stonybrook.edu
-| Phone: (516) 943 6903
+
+[]| Phone: (516) 943 6903
 
 ## Biography
 
