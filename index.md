@@ -8,7 +8,7 @@ Outside of class, I volunteer some of my time in a information security lab on c
 
 ## Resume
 
-<object data="pdfs/resume.pdf" type="application/pdf">
+<object data="pdfs/resume.pdf" type="application/pdf" width="850" height="1100">
     <embed src="pdfs/resume.pdf">
         This browser does not support PDFs. Please download the PDF to view it: <a href="pdfs/resume.pdf">Download PDF</a>.</p>
     </embed>
