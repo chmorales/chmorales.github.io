@@ -1,6 +1,10 @@
-### Biography
+## Contact Me!
 
-<img src="images/chris.png" width="400" height="354" align="middle">
+| :---: | :---|
+<img src="images/chris.png" width="400" height="354" align="middle"> | Email: christopher.morales@stonybrook.edu
+| Phone: (516) 943 6903
+
+## Biography
 
 I am currently pursuing a Bachelor of Science in Computer Science at Stony Brook University on Long Island, New York. I am enrolled in the Honors College as well as the Computer Science Honors program, where I get the opportunity to work with some of the smartest people I have ever met. 
 
