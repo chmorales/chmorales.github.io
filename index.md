@@ -1,6 +1,6 @@
 ### Biography
 
-|:![Photo of me](images/chris.png | width=100):|
+<img src="images/chris.png" width="200" height="200">
 
 I am currently pursuing a Bachelor of Science in Computer Science at Stony Brook University on Long Island, New York. I am enrolled in the Honors College as well as the Computer Science Honors program, where I get the opportunity to work with some of the smartest people I have ever met. 
 
