@@ -6,13 +6,17 @@ I am particuarly interested in information security, and am looking to pursue a 
 
 Outside of class, I volunteer some of my time in a information security lab on campus, focusing on program security. Projects I have completed include a "self-randomizing" debian package framework and a couple binary instrumentation tools. I also have interned at a company called Zignage LLC, located in New York, New York, working on digital signage solutions for high profile clients.
 
-## Resume
+## Documents
 
-<object data="pdfs/resume.pdf" type="application/pdf" width="850" height="1100">
-    <embed src="pdfs/resume.pdf">
-        This browser does not support PDFs. Please download the PDF to view it: <a href="pdfs/resume.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+[Resume](pdfs/resume.pdf)
+
+[Sample User Instructions for Filling your Car with Gas](pdfs/userinst.pdf)
+
+[Literature Review on Social Media and Academic Performance](pdfs/litreview.pdf)
+
+[Research Proposal for Social Media and Academic Performance Research](pdfs/researchproposal.pdf)
+
+[Sample Press Release regarding SpaceX's Falcon Heavy](pdfs/pressrelease.pdf)
 
 ## Contact Me!
 
