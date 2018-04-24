@@ -16,7 +16,7 @@ Outside of class, I volunteer some of my time in a information security lab on c
 
 ## Contact Me!
 
-<img src="images/chris.png" width="400" height="354" align="middle"> 
+<img src="images/chris.png" width="200" height="178" align="middle"> 
 
 Email: christopher.morales@stonybrook.edu
 
