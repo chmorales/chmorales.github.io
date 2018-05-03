@@ -12,7 +12,7 @@ If you'd like to know more, you can visit my [GitHub](https://github.com/chmoral
 
 #### Hobbies
 
-Some of my hobbies include playing guitar and video games, and longboarding. My favorite places to visit are nature preserves and national / state parks. Some of my favorite bands are the Pixies, Red Hot Chili Peppers, King Krule, and Ween.
+Some of my hobbies include playing guitar and video games, and longboarding. My favorite places to visit are nature preserves and national / state parks. I love listening to music, and some of my favorite bands are the Pixies, Red Hot Chili Peppers, King Krule, and Ween.
 
 ## Coding Projects
 
