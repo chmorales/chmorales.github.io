@@ -10,6 +10,8 @@ Outside of class, I work in a information security lab on campus, focusing on pr
 
 If you'd like to know more, you can visit my [GitHub](https://github.com/chmorales) or see my [resume](pdfs/resume.pdf).
 
+#### Hobbies
+
 Some of my hobbies include playing guitar and video games, and longboarding. My favorite places to visit are nature preserves and national / state parks. Some of my favorite bands are the Pixies, Red Hot Chili Peppers, King Krule, and Ween.
 
 ## Coding Projects
